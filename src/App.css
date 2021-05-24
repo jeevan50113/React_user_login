@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.home {
+  text-align: center;
+}
+.NAV {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(131, 236, 83);
+  color: rgb(255, 255, 255);
+}
+.Nav-link {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.bt {
+  margin: "70px 10px 10px 0";
+  color: rgb(255, 255, 255);
+  background-color: rgb(64, 199, 252);
+  align-items: center;
+  text-align: center;
+}
+.Btn {
+  color: red;
+}
+.container {
+  text-align: center;
+  color: blueviolet;
+}
+
+.fr {
+  text-align: center;
+}
